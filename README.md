@@ -15,21 +15,23 @@ The comparison of skeletons across species lead to historical insights in evolut
 - Python - Pandas 
 
 ## 🧩 Project Hypothesis
-
+-50% of bones are in hands and feet
+-Infants have more bones than adults
 
 ## 🚀 Methods
--Data Analytical Method <br/> 
--Kruskal-Wallis H Test <br/> 
--Converting Independent variables into categorical <br/> 
+-Import library: Pandas
+-Data Exploration <br/> 
+-Data Count/sum <br/> 
+-Sort values <br/> 
 -Mann-Whitney U Test <br/> 
 -Bonferroni Correction <br/> 
 -GLM <br/> 
 
-## 💡 Lessons Learned
-- How to manage state using `useState`  
-- How to pass data between components using props  
-- The importance of component reusability and clear separation of logic  
-- Basic debugging with React DevTools  
+## 💡 Project results
+- Over 51% of bones are found in the hands and feet  
+- Human infants have 305 bones, many of which fuse together, resulting in 206 bones in the adult body.
+- Humans have 7 neck vertebrae
+-   
 
 ## 👩‍💻 Author
 
