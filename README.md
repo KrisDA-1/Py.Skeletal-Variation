@@ -11,16 +11,16 @@ The comparison of skeletons across species lead to historical insights in evolut
 -Test Hypothesis ❌<br/> 
 
 ## 🧠 Software Used
-- Python - Pandas
-- Google Colab
+- Python - Pandas <br/>
+- Google Colab <br/>
 
 ## 🧩 Project Hypothesis
--50% of bones are in hands and feet
--Infants have more bones than adults
--All mammals have 7 neck vertebrae
+-50% of bones are in hands and feet <br/>
+-Infants have more bones than adults <br/>
+-All mammals have 7 neck vertebrae <br/>
 
 ## 🚀 Methods
--Import library: Pandas
+-Import library: Pandas <br/>
 -Data Exploration <br/> 
 -Data Count/sum <br/> 
 -Sort values <br/> 
@@ -28,12 +28,12 @@ The comparison of skeletons across species lead to historical insights in evolut
 -Conditionals <br/> 
 
 ## 💡 Project results
-- Over 51% of bones are found in the hands and feet.
-- Human infants have 305 bones, many of which fuse together, resulting in 206 bones in the adult body.
-- Humans have 7 neck vertebrae.
-- Certain animals does not have 7 neck vertebrae.
-- The most common number of neck vertebrae is 13, but it looks like 23 is the maximum.
-- The bird with the maximum number of neck bones is the "Mute swan" with 23.
+- Over 51% of bones are found in the hands and feet. <br/>
+- Human infants have 305 bones, many of which fuse together, resulting in 206 bones in the adult body. <br/>
+- Humans have 7 neck vertebrae. <br/>
+- Certain animals does not have 7 neck vertebrae. <br/>
+- The most common number of neck vertebrae is 13, but it looks like 23 is the maximum. <br/>
+- The bird with the maximum number of neck bones is the "Mute swan" with 23. <br/>
 
 ## 👩‍💻 Author
 
